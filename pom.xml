@@ -9,7 +9,7 @@
   
   <artifactId>integrity-plugin</artifactId>
   <name>PTC Integrity CM - Jenkins Plugin</name>
-  <version>1.32-SNAPSHOT</version>
+  <version>1.31.1</version>
   <packaging>hpi</packaging>
 
   <url>http://wiki.jenkins-ci.org/display/JENKINS/PTC+Integrity+Plugin</url>
@@ -23,9 +23,9 @@
   </developers>
 	
   <scm>
-	<connection>scm:git:ssh://github.com/jenkinsci/integrity-plugin.git</connection>
-	<developerConnection>scm:git:ssh://git@github.com/jenkinsci/integrity-plugin.git </developerConnection>
-	<url>https://github.com/jenkinsci/integrity-plugin</url>
+	<connection>scm:git:ssh://github.com/legrego/integrity-plugin.git</connection>
+	<developerConnection>scm:git:ssh://git@github.com:legrego/integrity-plugin.git</developerConnection>
+	<url>https://github.com/legrego/integrity-plugin</url>
   </scm>
   
   <dependencies>
@@ -50,7 +50,7 @@
    	<dependency>
   		<groupId>com.mks.api</groupId>
   		<artifactId>mksapi-jar</artifactId>
-  		<version>4.13.5479</version>
+  		<version>4.11.3238</version>
   		<scope>compile</scope>
    	</dependency>
   </dependencies>
