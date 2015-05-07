@@ -5,11 +5,11 @@
 	<groupId>org.jenkins-ci.plugins</groupId>    
 	<artifactId>plugin</artifactId>    
 	<version>1.546</version>  
-  </parent>  
+  </parent>
   
   <artifactId>integrity-plugin</artifactId>
   <name>PTC Integrity CM - Jenkins Plugin</name>
-  <version>1.31.2</version>
+  <version>1.33.1</version>
   <packaging>hpi</packaging>
 
   <url>http://wiki.jenkins-ci.org/display/JENKINS/PTC+Integrity+Plugin</url>
